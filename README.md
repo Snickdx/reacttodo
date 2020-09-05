@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d6a8d2e2-4fae-4b8f-94b6-8bc3044178ef/deploy-status)](https://app.netlify.com/sites/snickreact/deploys)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
